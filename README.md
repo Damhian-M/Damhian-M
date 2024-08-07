@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damhian M</h1>
-<h3 align="center">A passionate developer from mostly working in internal government apps in Indonesia</h3>
+<h3 align="center">Passionate developer specializing in internal government apps in Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damhian&label=Profile%20views&color=0e75b6&style=flat" alt="damhian" /> </p>
 
@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Laravel, React, Python and Web3 Project**
 
-- 💬 Ask me about **React, Laravel, Python**
+- 💬 Ask me about **React, Laravel, PHP, Python**
 
 - 📫 How to reach me **damhianmaynard@gmail.com**
 
-- ⚡ If I have time, **I love to play some football or futsal and also badminton**
+- ⚡ If I have time, **How about getting together for a game of football or futsal, and maybe even some badminton? Sounds like a great way to stay active and have fun!**
 
 <!--<h3 align="left">Connect with me:</h3>-->
 <p align="left">
